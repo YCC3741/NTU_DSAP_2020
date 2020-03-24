@@ -1,0 +1,12 @@
+8 3
+1;I enjoy going to school a lot. And I also like to be nice to others.
+2;I think the question is very hard. I spend a lot of time on it.
+1;How are you? I am fine.
+1;What is wrong with that machine?
+2;Here you are.
+2;I never ate that food. I felt that the taste will be bad.
+1;I love that drink. Do you love it too?
+2;The last time I went to the zoo was ten years ago.
+1;No one knows her.
+2;Where is the book I bought yesterday?
+1;I think it is behind the desk.
